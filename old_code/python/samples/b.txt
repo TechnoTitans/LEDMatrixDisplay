@@ -1,0 +1,4 @@
+Press CTRL-C to stop sample
+run
+<type 'instance'>
+<PIL.Image.Image image mode=RGB size=36x32 at 0x75E1E648>

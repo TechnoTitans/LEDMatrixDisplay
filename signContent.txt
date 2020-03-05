@@ -1,0 +1,8 @@
+#     file name,                effect, r, g, b, delay
+file,FIRST.PNG,			    	ScrollRL,0,0,0,0
+text,Team 1683,		        	ScrollRL,0,0,250,0
+text,OPEN HOUSE,                ScrollRL,0,0,250,0
+text,TechnoTitans Robotics Foundation, ScrollRL,0,0,250,0
+text,Mentors Howard Evans and Theresa Dixon, ScrollRL,0,0,250,0
+text,Mentors Pete Estelle and Patti Duncan, ScrollRL,0,0,250,0
+text,Mentors Andrew Booth and Bill Hawkins, ScrollRL,0,0,250,0
